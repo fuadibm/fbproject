@@ -25,7 +25,7 @@ SECRET_KEY = '_jc^-epd)f-hj5r75k3%+7dbzzq#kt4hd0^iz(i*#0gn$khe)x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fb-appnew.herokuapp.com/']
+ALLOWED_HOSTS = ['fb-appnew.herokuapp.com']
 
 
 # Application definition
